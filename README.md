@@ -13,7 +13,7 @@ I'm a Full Stack Developer at Psychology Today (by Sussex Directories), the worl
 ## Technologies :books:
 Daily working with Golang (microservices), Vue (client side apps), powered by AWS services.
 
-[![GoLang](./assets/go-logo.png=64x64)](https://go.dev/)
-[![Vue.js](./assets/vue-logo.png=64x64)](https://nuxtjs.org/)
-[![Nuxt.js](./assets/nuxt-logo.png=64x64)](https://vuejs.org/)
-[![AWS](./assets/aws-logo.svg=64x64)](https://aws.amazon.com/)
+[<img src="./assets/go-logo.png" width="64" height=64>](https://vuejs.org/)
+[<img src="./assets/vue-logo.png" width="64" height=64>](https://vuejs.org/)
+[<img src="./assets/nuxt-logo.png" width="64" height=64>](https://vuejs.org/)
+[<img src="./assets/aws-logo.svg" width="64" height=64>](https://aws.amazon.com/)
